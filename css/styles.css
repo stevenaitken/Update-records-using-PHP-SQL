@@ -1,0 +1,13 @@
+.container{text-align:center;font-family: 'Roboto', sans-serif;}
+table{border:2px dashed black;width:60%;margin:0 auto;font-size:150%;margin-top:10%; text-align:left;padding:1%;}
+th{background-color:#0C3;color:#E5E5E5;font-size:200%;height: 84px;}
+tr:nth-child(odd){background-color:#aaaaaa;}
+a:link{color:#000;}
+td{ height: 34px;}
+img{height:100px;width:100px;}
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}	
